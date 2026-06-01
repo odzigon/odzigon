@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Alastor</h1>
+<h1 align="center">Hi there 👋, I'm Odzigon</h1>
 
 <p align="center">
   I'm a passionate <strong>Developer</strong> and <strong>Data Analyst</strong> working in the field of <strong>Cybersecurity</strong>.  
