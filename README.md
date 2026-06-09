@@ -8,7 +8,7 @@
 
 <a href="https://guns.lol/odzigon"><img src="https://img.shields.io/badge/guns.lol-e63946?style=for-the-badge&logo=linktree&logoColor=fdfdfd&labelColor=0a0a0a"/></a>
 <a href="https://twitch.tv/odzigon"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=fdfdfd&labelColor=0a0a0a"/></a>
-<a href="https://discord.com/users/odzigon"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=fdfdfd&labelColor=0a0a0a"/></a>
+<img src="https://img.shields.io/badge/Discord-odzigon-5865F2?style=for-the-badge&logo=discord&logoColor=fdfdfd&labelColor=0a0a0a"/>
 <a href="https://odzigon.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-fdfdfd?style=for-the-badge&logo=netlify&logoColor=e63946&labelColor=0a0a0a&color=1a0505"/></a>
 <img src="https://komarev.com/ghpvc/?username=odzigon&style=for-the-badge&color=e63946&label=PROFILE+VIEWS&labelColor=0a0a0a"/>
 
@@ -41,6 +41,10 @@ class Odzigon:
 ## ⚡ &nbsp;TECH STACK
 
 <br/>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=cs,cpp,c,rust,python,java,php,html,css,js,nodejs,electron,threejs,lua,sqlite&perline=8&theme=dark"/></a>
+
+<br/><br/>
 
 <table>
 <tr>
@@ -177,8 +181,8 @@ Productivity & desktop tooling for Windows
 
 <br/>
 
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=odzigon&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=e63946&icon_color=e63946&text_color=fdfdfd&bg_color=0a0a0a"/>
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=odzigon&layout=compact&hide_border=true&title_color=e63946&text_color=fdfdfd&bg_color=0a0a0a&langs_count=8"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=odzigon&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&title_color=e63946&icon_color=e63946&text_color=fdfdfd&bg_color=0a0a0a"/>
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=odzigon&layout=compact&hide_border=true&title_color=e63946&text_color=fdfdfd&bg_color=0a0a0a&langs_count=8"/>
 
 <br/>
 
@@ -190,7 +194,7 @@ Productivity & desktop tooling for Windows
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=odzigon&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&title_color=e63946&text_color=fdfdfd"/>
+<img src="https://github-profile-trophy.vercel.app/?username=odzigon&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 <br/><br/>
 
@@ -207,6 +211,39 @@ Productivity & desktop tooling for Windows
 </picture>
 
 <br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:e63946,100:0a0a0a&height=2" width="100%"/>
+
+## 🧠 &nbsp;PROFILE DEEP DIVE
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=odzigon&theme=github_dark&utcOffset=2" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=odzigon&theme=github_dark" width="48%"/>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code,%20analyze,%20learn,%20repeat.&author=Odzigon"/>
+
+<br/><br/>
+
+<details>
+<summary><b>🗂️ &nbsp;MORE ABOUT ME — click to expand</b></summary>
+
+<br/>
+
+- 🇫🇷 Based in **France**
+- 🛡️ Day job: **Data Analyst** in cybersecurity
+- ⚡ Co-founder of **NEXIUM** — applications, Discord clients, games, OSINT
+- 🎨 Obsessed with **premium dark aesthetics** — near-black, bone-white, ember-red
+- 🎮 Streaming sometimes on [Twitch](https://twitch.tv/odzigon)
+- 📚 Currently learning: `Lua` & `SQL`
+
+</details>
+
+<br/>
+
+<!-- You found the easter egg. NEXIUM sees you. 👁️ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e63946,60:1a0505,100:0a0a0a&height=140&section=footer&text=CODE%20%C2%B7%20ANALYZE%20%C2%B7%20LEARN%20%C2%B7%20REPEAT&fontColor=fdfdfd&fontSize=22&fontAlignY=72"/>
 
