@@ -190,7 +190,7 @@ Productivity & desktop tooling for Windows
 
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=odzigon&bg_color=0a0a0a&color=fdfdfd&line=e63946&point=fdfdfd&area=true&area_color=1a0505&hide_border=true&custom_title=Contribution%20Activity"/>
+<img src="https://ghchart.rshah.org/e63946/odzigon" width="98%" alt="contribution heatmap"/>
 
 <br/>
 
