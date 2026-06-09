@@ -136,6 +136,43 @@ Threat surfacing & data-driven hardening
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:e63946,100:0a0a0a&height=2" width="100%"/>
 
+## 🔨 &nbsp;CURRENTLY BUILDING
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="33.33%" align="center">
+
+**`Nexium Client`**
+<img src="https://img.shields.io/badge/ACTIVE-e63946?style=flat-square&labelColor=0a0a0a"/>
+
+Custom Discord client mod — mini-player, network journal, stats heatmap
+
+</td>
+<td valign="top" width="33.33%" align="center">
+
+**`Nexium OS`**
+<img src="https://img.shields.io/badge/ACTIVE-e63946?style=flat-square&labelColor=0a0a0a"/>
+
+Fake-desktop portfolio — Three.js, glassmorphism, in-OS apps
+
+</td>
+<td valign="top" width="33.33%" align="center">
+
+**`Electron Suites`**
+<img src="https://img.shields.io/badge/ONGOING-fdfdfd?style=flat-square&labelColor=0a0a0a&color=1a0505"/>
+
+Productivity & desktop tooling for Windows
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:e63946,100:0a0a0a&height=2" width="100%"/>
+
 ## 📊 &nbsp;GITHUB ANALYTICS
 
 <br/>
@@ -163,7 +200,11 @@ Threat surfacing & data-driven hardening
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/odzigon/odzigon/output/github-snake-dark.svg" width="100%" alt="contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/odzigon/odzigon/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/odzigon/odzigon/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/odzigon/odzigon/output/github-snake-dark.svg" width="100%" alt="contribution snake"/>
+</picture>
 
 <br/><br/>
 
